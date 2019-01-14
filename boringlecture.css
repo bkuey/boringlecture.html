@@ -1,0 +1,15 @@
+h2.intro {
+  width: 50%;
+  font-style: italic;
+  color: red;
+}
+
+p.intro {
+  width: 50%;
+  font-style: oblique;
+  color: blue;
+}
+
+img.intro {
+  width: 50%;
+}
